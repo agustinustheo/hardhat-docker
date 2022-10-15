@@ -4,7 +4,7 @@
 cd /usr/src/app;
 
 # Run hardhat
-yarn start:local;
+yarn start:node;
 
 # Keep node alive
 set -e
